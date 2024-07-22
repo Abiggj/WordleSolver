@@ -120,7 +120,7 @@ This will launch the GUI version of the Wordle Solver. The application will disp
 
 ### Sample
 
-![Demo Usage of WordleSolver GUI](https://github.com/Abiggj/WordleSolver/demo.png)
+![Demo Usage of WordleSolver GUI](https://github.com/Abiggj/WordleSolver/blob/main/demo.png)
 
 ## FAQ
 
